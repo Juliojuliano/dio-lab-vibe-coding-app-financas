@@ -111,8 +111,8 @@ Depois eu peço as demais telas, uma por vez.
 
 ## 🔗 Demo
 
+- **App publicado:** https://fluxo-finance-ai.lovable.app
 - Projeto no Lovable: https://lovable.dev/projects/ba30a59f-fe7e-4c8e-923a-b7850b295faf
-- Preview: https://id-preview--ba30a59f-fe7e-4c8e-923a-b7850b295faf.lovable.app
 
 ## 🧠 O que aprendi
 
